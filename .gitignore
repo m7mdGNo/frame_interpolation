@@ -1,0 +1,13 @@
+dataset/
+frames/
+clibs/
+output/
+__pycache__/
+applsci-10-06245-v2.pdf
+dataset.zip
+dataset1.zip
+gen.pt
+disc.pt
+ref_gen.pt
+ref_disc.pt
+todo.txt
