@@ -31,8 +31,8 @@ def generate_images(generator, input_path):
 
     
     # Display the combined image
-    clear_output(wait=True)
     display(Image.fromarray(np.uint8(gen_output.clip(0, 1)*255.0)))
+    clear_output(wait=True)
 
 
 def generate_image(generator, img):
